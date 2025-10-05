@@ -1,5 +1,5 @@
 🌦 Väderkollen (WeatherApp CLI)
-Detta är ett enkelt program som körs i terminalen (kommandoraden) och som hämtar aktuell väderdata för valfri stad.
+Detta är ett enkelt program som körs i terminalen och som hämtar aktuell väderdata för valfri stad.
 
 Detta projekt visar min förmåga att arbeta med moderna Java-tekniker:
 
