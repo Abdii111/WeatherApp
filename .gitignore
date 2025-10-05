@@ -1,0 +1,45 @@
+### IntelliJ IDEA ###
+out/
+!**/src/main/**/out/
+!**/src/test/**/out/
+
+### Eclipse ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+bin/
+!**/src/main/**/bin/
+!**/src/test/**/bin/
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+### VS Code ###
+.vscode/
+
+### Mac OS ###
+.DS_Store
+
+# Exkludera alla IntelliJ-inställningar
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Exkludera utdata
+out/
+build/
+target/
+
+# Exkludera externa bibliotek (JARs)
+# Eftersom du lade in Gson manuellt, ignorerar vi hela mappen
+lib/
+*.jar
